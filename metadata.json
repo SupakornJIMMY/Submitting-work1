@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: ระบบส่งงานนักเรียน",
+  "description": "ระบบส่งงานและการบ้านนักเรียนออนไลน์ หน้าบ้านสำหรับนักเรียนส่งงานและตรวจสถานะสีตามเงื่อนไข หลังบ้านสำหรับคุณครูตรวจงานและจัดการข้อมูลผ่าน Google Sheets \u0026 Drive จริง",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
